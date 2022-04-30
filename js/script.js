@@ -13,8 +13,8 @@ const cursorSpan = document.querySelector(".cursor");
 
 const textArray = ["Welcome to my page!", 
                    "Motivated by challenges!", 
-                   "Without data", 
-                   "you're just another person with an opinion", 
+                   "Without data,", 
+                   "you're just another person with an opinion!", 
                   "by W. Edwards Deming"];
 const typingDelay = 100;
 const erasingDelay = 50;
